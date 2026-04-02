@@ -19,6 +19,12 @@ It provides a complete breeding system through interactive menus, including:
 
   * F1, F2, F3 (for Pokémon with multiple maxed stats)
 
+## Feature Availability
+
+This mod can be used in modpacks and singleplayer environments.
+
+Some advanced features (such as integrations, tiers and custom held system) may require additional configuration or server-side setup.  
+
 ## Features
 
 * Full menu-based breeding system
@@ -45,28 +51,39 @@ Includes an exclusive custom held item system:
 
 ## Download
 
-This mod is **NOT publicly available for download**.
+This mod is available as part of CurseForge modpacks.
 
-To request access:
+There is no standalone public download provided by the author.
 
-* Contact via Discord: Inflitraz#4135
-* Or email: [henrique.wuju@gmail.com](mailto:henrique.wuju@gmail.com)
+For server configuration or full feature access, contact:
+
+* Discord: Inflitraz#4135
+* Email: [henrique.wuju@gmail.com](mailto:henrique.wuju@gmail.com)
 
 ## Modpack Usage
 
-This mod **is allowed to be included in CurseForge modpacks**, provided that:
+This mod **is allowed to be included in CurseForge modpacks**.
 
-* The .jar file is NOT redistributed
-* The mod is NOT reuploaded to other platforms
-* Proper credit is given to the author
+You are allowed to:
+
+* Redistribute this mod as part of a CurseForge modpack
+
+You are NOT allowed to:
+
+* Reupload this mod to other platforms or websites
+* Distribute the mod as a standalone download
+* Modify and redistribute without permission
+
+Proper credit must be given to the author.
 
 ## 📜 License
 
 All Rights Reserved.
 
-* Allowed in approved CurseForge modpacks
-* Redistribution is prohibited
+* Redistribution is allowed **only as part of CurseForge modpacks**
+* Standalone distribution is prohibited
 * Commercial use is restricted to the author
+* Server-side functionality may require proper configuration
 
 ## 📜 Modpack Permissions
 
@@ -101,6 +118,12 @@ O mod adiciona um sistema completo de breeding através de menus interativos, in
 * Suporte a siglas como:
 
   * F1, F2, F3 (para Pokémon com múltiplos status maximizados)
+    
+ ## Funcionalidades disponiveis
+
+Esse mod pode ser usado para singleplayer e em modpacks.
+
+Algumas das funcionalidades avançadas(Como integração, tiers e sistema de held item custom) podem exigir configuração adicional.  
 
 ## Funcionalidades
 
@@ -128,28 +151,39 @@ O mod inclui um sistema exclusivo de held items customizados:
 
 ## Download
 
-Este mod **NÃO está disponível para download público**.
+Este mod está disponível como parte de modpacks do CurseForge.
 
-Para obter acesso:
+Não há download público standalone fornecido pelo autor.
 
-* Entre em contato via Discord: Inflitraz#4135
-* Ou via e-mail: [henrique.wuju@gmail.com](mailto:henrique.wuju@gmail.com)
+Para configuração em servidores ou acesso completo às funcionalidades, entre em contato:
+
+* Discord: Inflitraz#4135
+* Email: [henrique.wuju@gmail.com](mailto:henrique.wuju@gmail.com)
 
 ## Uso em Modpacks
 
-Este mod **PODE ser incluído em modpacks do CurseForge**, desde que:
+Este mod **PODE ser incluído em modpacks do CurseForge**.
 
-* O arquivo .jar não seja redistribuído
-* O mod não seja hospedado em outros sites
-* Os devidos créditos sejam mantidos
+Você pode:
+
+* Redistribuir este mod como parte de um modpack do CurseForge
+
+Você NÃO pode:
+
+* Reenviar este mod para outros sites ou plataformas
+* Distribuir o mod separadamente (fora de modpacks)
+* Modificar e redistribuir sem permissão
+
+Os devidos créditos ao autor devem ser mantidos.
 
 ## 📜 Licença
 
-All Rights Reserved.
+Todos os direitos reservados.
 
-* Uso permitido em modpacks aprovados
-* Distribuição proibida sem autorização
+* Redistribuição permitida **apenas dentro de modpacks do CurseForge**
+* Distribuição standalone é proibida
 * Uso comercial restrito ao autor
+* Funcionalidades em servidores podem exigir configuração adequada
 
 ## 📜 Permissões de uso em Modpacks
 
