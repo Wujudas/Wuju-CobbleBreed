@@ -1,15 +1,18 @@
-All Rights Reserved
+Copyright (c) 2026 Wuju Inflitraz
 
-This mod is proprietary software.
+All Rights Reserved.
 
 You are allowed to:
 
 Include this mod in CurseForge modpacks
+Redistribute this mod as part of a modpack hosted on CurseForge
 
 You are NOT allowed to:
 
-Redistribute the mod .jar file
-Upload the mod to other websites
-Modify and redistribute without permission
+Reupload this mod to other platforms or websites
+Redistribute the mod as a standalone download
+Sell or sublicense this mod
 
-Access to the mod may be restricted by the author.
+Commercial usage and server deployment rights are reserved by the author.
+
+Access to full features or functionality may be restricted by the author.
