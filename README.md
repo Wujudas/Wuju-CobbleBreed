@@ -68,6 +68,10 @@ All Rights Reserved.
 * Redistribution is prohibited
 * Commercial use is restricted to the author
 
+## 📜 Modpack Permissions
+
+See [PERMISSIONS.md](./PERMISSIONS.md) for authorized modpacks.
+
 ## 👤 Author
 
 Wuju Inflitraz
@@ -146,6 +150,10 @@ All Rights Reserved.
 * Uso permitido em modpacks aprovados
 * Distribuição proibida sem autorização
 * Uso comercial restrito ao autor
+
+## 📜 Permissões de uso em Modpacks
+
+Olhe [PERMISSIONS.md](./PERMISSIONS.md) Para verificar modpacks autorizados.
 
 ## 👤 Autor
 
